@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Array_example {
+public class Array_example {
+    public static void main(String[] args) {
+
+    }
 }
